@@ -31,7 +31,7 @@ body {
     position: relative;
     top: 20vh;
     transform-origin: 50% 100%;
-    animation: text 10s linear;
+    animation: text 60s linear;
   }
   
   #text > #titre {
